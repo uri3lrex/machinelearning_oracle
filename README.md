@@ -42,7 +42,7 @@ This repository documents my journey through foundational machine learning conce
 
 ---
 
-### 3. `classification.ipynb` — Interactive Neural Network Classification
+### 3. `classification (1).ipynb` — Interactive Neural Network Classification
 **Objective:** Explore nonlinear decision boundaries using a neural network (MLP).
 
 **What I did:**
@@ -87,8 +87,8 @@ This repository documents my journey through foundational machine learning conce
 | Logistic Regression | `basicdemo1`, `basicdemo2` | Foundation of classification models |
 | Data Preprocessing | `basicdemo2` | Scaling and splitting data |
 | Model Evaluation | `basicdemo2` | Accuracy and test/train split |
-| Neural Networks (MLP) | `classification.ipynb` | Learning nonlinear patterns |
-| Visualization | `classification.ipynb` | Understanding decision boundaries |
+| Neural Networks (MLP) | `classification (1).ipynb` | Learning nonlinear patterns |
+| Visualization | `classification (1).ipynb` | Understanding decision boundaries |
 | Future Work | — | Text-based MLP classification (spam detection) |
 
 ---
